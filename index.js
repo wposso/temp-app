@@ -1,14 +1,13 @@
-const express = require('express');
+const express = require("express");
 const app = express();
 const port = process.env.PORT || 3000;
 
-const { getProducts } = require('./model/model_products');
-const products = getProducts();
+const productsController = require("./controllers/products_ctrl");
+const authenticationController = require("./auth/authentication");
 
-app.get('/products', (req, res) => {
-    res.json(products);
-});
+app.use("/products", productsController);
+app.use("/auth", authenticationController);
 
 app.listen(port, () => {
-    console.log(`Server is running at http://localhost:${port}`);
+  console.log(`Server is running at http://localhost:${port}`);
 });

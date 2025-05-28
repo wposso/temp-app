@@ -1,0 +1,98 @@
+function getProducts() {
+    return [
+        {
+            id: 1,
+            nombre: "Leche Entera Alpina 1L",
+            categoria: "Lácteos",
+            precio: 4500,
+            unidad: "unidad",
+            stock: 120,
+            imagen: "https://example.com/imagenes/leche_alpina_1l.jpg"
+        },
+        {
+            id: 2,
+            nombre: "Pan Tajado Bimbo 500g",
+            categoria: "Panadería",
+            precio: 5800,
+            unidad: "unidad",
+            stock: 80,
+            imagen: "https://example.com/imagenes/pan_bimbo.jpg"
+        },
+        {
+            id: 3,
+            nombre: "Huevos AA x12",
+            categoria: "Huevos",
+            precio: 9800,
+            unidad: "docena",
+            stock: 50,
+            imagen: "https://example.com/imagenes/huevos_docena.jpg"
+        },
+        {
+            id: 4,
+            nombre: "Banano (1kg)",
+            categoria: "Frutas",
+            precio: 3200,
+            unidad: "kg",
+            stock: 100,
+            imagen: "https://example.com/imagenes/banano.jpg"
+        },
+        {
+            id: 5,
+            nombre: "Pechuga de Pollo (1kg)",
+            categoria: "Carnes",
+            precio: 15900,
+            unidad: "kg",
+            stock: 60,
+            imagen: "https://example.com/imagenes/pechuga_pollo.jpg"
+        },
+        {
+            id: 6,
+            nombre: "Arroz Diana 5kg",
+            categoria: "Granos",
+            precio: 18000,
+            unidad: "unidad",
+            stock: 70,
+            imagen: "https://example.com/imagenes/arroz_diana.jpg"
+        },
+        {
+            id: 7,
+            nombre: "Aceite de Girasol Premier 1L",
+            categoria: "Aceites",
+            precio: 9900,
+            unidad: "unidad",
+            stock: 90,
+            imagen: "https://example.com/imagenes/aceite_premier.jpg"
+        },
+        {
+            id: 8,
+            nombre: "Detergente Ariel 2kg",
+            categoria: "Limpieza",
+            precio: 13500,
+            unidad: "unidad",
+            stock: 40,
+            imagen: "https://example.com/imagenes/ariel_detergente.jpg"
+        },
+        {
+            id: 9,
+            nombre: "Coca-Cola 1.5L",
+            categoria: "Bebidas",
+            precio: 4800,
+            unidad: "unidad",
+            stock: 75,
+            imagen: "https://example.com/imagenes/coca_1.5l.jpg"
+        },
+        {
+            id: 10,
+            nombre: "Papel Higiénico Familia x4",
+            categoria: "Aseo personal",
+            precio: 6900,
+            unidad: "paquete",
+            stock: 65,
+            imagen: "https://example.com/imagenes/papel_familia.jpg"
+        }
+    ];
+}
+
+module.exports = {
+    getProducts
+};

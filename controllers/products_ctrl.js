@@ -2,11 +2,12 @@ const express = require("express");
 const router = express.Router();
 const { getProducts } = require("../model/model_products");
 
-router.get("/products", (req, res) => {
-  if (!getProducts) {
+router.get("/", (req, res) => {
+  const products = getProducts();
+  if (!products) {
     return res.status(500).json({ message: "Error to read products" });
   } else {
-    res.json(getProducts);
+    res.json(products);
   }
 });
 

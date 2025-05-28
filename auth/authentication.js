@@ -2,18 +2,16 @@ const express = require("express");
 const router = express.Router();
 const { getUsers } = require("../model/model_users");
 
-router.get("/login", (req, res) => {
-  const { username, password } = req.query;
+router.post("/", (req, res) => {
+  const { email, password } = req.body;
 
-  if (!username || !password) {
-    return res
-      .status(400)
-      .json({ message: "Username and password are required" });
+  if (!email || !password) {
+    return res.status(400).json({ message: "Email and password are required" });
   }
 
   const users = getUsers();
   const user = users.find(
-    (user) => user.username === username && user.password === password
+    (user) => user.email === email && user.password === password
   );
 
   if (user) {

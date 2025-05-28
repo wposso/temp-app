@@ -2,5 +2,25 @@
   "dependencies": {
     "express": "^5.1.0",
     "node": "^22.16.0"
-  }
+  },
+  "name": "temp-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wposso/temp-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wposso/temp-app/issues"
+  },
+  "homepage": "https://github.com/wposso/temp-app#readme",
+  "description": ""
 }

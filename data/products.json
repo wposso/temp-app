@@ -15,7 +15,7 @@
     "precio": 9800,
     "unidad": "docena",
     "stock": 50,
-    "imagen": "https://example.com/imagenes/huevos_docena.jpg"
+    "imagen": "https://exitocol.vtexassets.com/arquivos/ids/25458570/Huevo-Aa-Rojo-X-12-Unidades-905065_a.jpg?v=638666176825900000"
   },
   {
     "id": 4,
@@ -24,7 +24,7 @@
     "precio": 3200,
     "unidad": "kg",
     "stock": 100,
-    "imagen": "https://example.com/imagenes/banano.jpg"
+    "imagen": "https://www.superlosmontes.com/site/3542-large_default/banano-1kg.jpg"
   },
   {
     "id": 5,
@@ -33,7 +33,7 @@
     "precio": 15900,
     "unidad": "kg",
     "stock": 60,
-    "imagen": "https://example.com/imagenes/pechuga_pollo.jpg"
+    "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/203958/2949522000007.jpg?v=637814195969830000"
   },
   {
     "id": 6,
@@ -42,7 +42,7 @@
     "precio": 18000,
     "unidad": "unidad",
     "stock": 70,
-    "imagen": "https://example.com/imagenes/arroz_diana.jpg"
+    "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27182459/Arroz-Diana-5000-gr-814670_a.jpg"
   },
   {
     "id": 7,
@@ -51,7 +51,7 @@
     "precio": 9900,
     "unidad": "unidad",
     "stock": 90,
-    "imagen": "https://example.com/imagenes/aceite_premier.jpg"
+    "imagen": "https://olimpica.vtexassets.com/arquivos/ids/1300141/7701018076430.jpg?v=638428552067630000"
   },
   {
     "id": 8,
@@ -60,7 +60,7 @@
     "precio": 13500,
     "unidad": "unidad",
     "stock": 40,
-    "imagen": "https://example.com/imagenes/ariel_detergente.jpg"
+    "imagen": "https://olimpica.vtexassets.com/arquivos/ids/1729447/7500435245289_1.jpg?v=638725536604100000"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "precio": 4800,
     "unidad": "unidad",
     "stock": 75,
-    "imagen": "https://example.com/imagenes/coca_1.5l.jpg"
+    "imagen": "https://olimpica.vtexassets.com/arquivos/ids/1733358/7702535024423_0.jpg?v=638729899536970000"
   },
   {
     "id": 10,
@@ -78,6 +78,6 @@
     "precio": 6900,
     "unidad": "paquete",
     "stock": 65,
-    "imagen": "https://example.com/imagenes/papel_familia.jpg"
+    "imagen": "https://olimpica.vtexassets.com/arquivos/ids/1538065/7702026147488_1.jpg?v=638652881548230000"
   }
 ]

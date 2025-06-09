@@ -6,7 +6,8 @@
     "precio": 4500,
     "unidad": "unidad",
     "stock": 120,
-    "imagen": "https://exitocol.vtexassets.com/arquivos/ids/27078236/Leche-Entera-En-Caja-X-1-Litro-329564_a.jpg?v=638778341006270000"
+    "imagen": "https://exitocol.vtexassets.com/arquivos/ids/27078236/Leche-Entera-En-Caja-X-1-Litro-329564_a.jpg?v=638778341006270000",
+    "descripcion": "Leche entera ultrapasteurizada Alpina en caja de 1 litro, ideal para el consumo diario."
   },
   {
     "id": 3,
@@ -15,7 +16,8 @@
     "precio": 9800,
     "unidad": "docena",
     "stock": 50,
-    "imagen": "https://exitocol.vtexassets.com/arquivos/ids/25458570/Huevo-Aa-Rojo-X-12-Unidades-905065_a.jpg?v=638666176825900000"
+    "imagen": "https://exitocol.vtexassets.com/arquivos/ids/25458570/Huevo-Aa-Rojo-X-12-Unidades-905065_a.jpg?v=638666176825900000",
+    "descripcion": "Docena de huevos rojos AA de alta calidad, frescos y nutritivos."
   },
   {
     "id": 4,
@@ -24,7 +26,8 @@
     "precio": 3200,
     "unidad": "kg",
     "stock": 100,
-    "imagen": "https://www.superlosmontes.com/site/3542-large_default/banano-1kg.jpg"
+    "imagen": "https://www.superlosmontes.com/site/3542-large_default/banano-1kg.jpg",
+    "descripcion": "Banano fresco por kilogramo, ideal para consumir solo o en preparaciones."
   },
   {
     "id": 5,
@@ -33,7 +36,8 @@
     "precio": 15900,
     "unidad": "kg",
     "stock": 60,
-    "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/203958/2949522000007.jpg?v=637814195969830000"
+    "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/203958/2949522000007.jpg?v=637814195969830000",
+    "descripcion": "Pechuga de pollo sin hueso, fresca, empacada por kilo. Rica en proteínas."
   },
   {
     "id": 6,
@@ -42,7 +46,8 @@
     "precio": 18000,
     "unidad": "unidad",
     "stock": 70,
-    "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27182459/Arroz-Diana-5000-gr-814670_a.jpg"
+    "imagen": "https://exitocol.vteximg.com.br/arquivos/ids/27182459/Arroz-Diana-5000-gr-814670_a.jpg",
+    "descripcion": "Arroz blanco marca Diana, presentación de 5 kilogramos. Grano entero y rendidor."
   },
   {
     "id": 7,
@@ -51,7 +56,8 @@
     "precio": 9900,
     "unidad": "unidad",
     "stock": 90,
-    "imagen": "https://olimpica.vtexassets.com/arquivos/ids/1300141/7701018076430.jpg?v=638428552067630000"
+    "imagen": "https://olimpica.vtexassets.com/arquivos/ids/1300141/7701018076430.jpg?v=638428552067630000",
+    "descripcion": "Aceite de girasol Premier, botella de 1 litro. Ideal para cocinar y freír."
   },
   {
     "id": 8,
@@ -60,7 +66,8 @@
     "precio": 13500,
     "unidad": "unidad",
     "stock": 40,
-    "imagen": "https://olimpica.vtexassets.com/arquivos/ids/1729447/7500435245289_1.jpg?v=638725536604100000"
+    "imagen": "https://olimpica.vtexassets.com/arquivos/ids/1729447/7500435245289_1.jpg?v=638725536604100000",
+    "descripcion": "Detergente en polvo Ariel, presentación de 2kg. Limpieza profunda y fragancia duradera."
   },
   {
     "id": 9,
@@ -69,7 +76,8 @@
     "precio": 4800,
     "unidad": "unidad",
     "stock": 75,
-    "imagen": "https://olimpica.vtexassets.com/arquivos/ids/1733358/7702535024423_0.jpg?v=638729899536970000"
+    "imagen": "https://olimpica.vtexassets.com/arquivos/ids/1733358/7702535024423_0.jpg?v=638729899536970000",
+    "descripcion": "Bebida gaseosa Coca-Cola botella PET de 1.5 litros. Refrescante y clásica."
   },
   {
     "id": 10,
@@ -78,6 +86,7 @@
     "precio": 6900,
     "unidad": "paquete",
     "stock": 65,
-    "imagen": "https://olimpica.vtexassets.com/arquivos/ids/1538065/7702026147488_1.jpg?v=638652881548230000"
+    "imagen": "https://olimpica.vtexassets.com/arquivos/ids/1538065/7702026147488_1.jpg?v=638652881548230000",
+    "descripcion": "Papel higiénico Familia, paquete de 4 rollos. Suave, resistente y rendidor."
   }
 ]
